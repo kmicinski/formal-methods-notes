@@ -9,3 +9,5 @@ notes are meant to be read alongside readings and books assigned
 throughout the course. The purpose of the notes is to give some
 intuition and context for things I think are particularly relevant to
 computer scientists and programmers as they read these papers.
+
+- `fopl.md` -- First-Order Predicate Logic (mostly model theory basics) for computer science.
